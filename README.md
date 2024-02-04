@@ -9,4 +9,4 @@
 - 💡 Aspirante a Emprendedor: Mi sueño es crear una startup que cambie el mundo.
 
 ## Proyectos Destacados
-(Proyecto Portafolio 3D)[https://alfonsozen.web.app/]
+- Proyecto Portafolio 3D: https://alfonsozen.web.app/
