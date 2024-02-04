@@ -8,5 +8,5 @@
 - 🏋️ Fitness Enthusiast: Amante del gimnasio y defensor de un estilo de vida saludable.
 - 💡 Aspirante a Emprendedor: Mi sueño es crear una startup que cambie el mundo.
 
-Proyectos Destacados
+## Proyectos Destacados
 (Proyecto Portafolio 3D)[https://alfonsozen.web.app/]
